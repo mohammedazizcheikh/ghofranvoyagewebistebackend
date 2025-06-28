@@ -1,0 +1,4 @@
+{"body":{},"level":"info","message":"API Request:","method":"POST","url":"https://admin.mygo.co/Postman/postman.php?url=/ListCity"}
+{"error":"Unexpected non-whitespace character after JSON at position 4 (line 1 column 5)","level":"error","message":"API Request Error:","method":"POST","url":"https://admin.mygo.co/Postman/postman.php?url=/ListCity"}
+{"body":{},"level":"info","message":"API Request:","method":"POST","url":"https://admin.mygo.co/Postman/postman.php?url=/ListCity"}
+{"error":"Unexpected non-whitespace character after JSON at position 4 (line 1 column 5)","level":"error","message":"API Request Error:","method":"POST","url":"https://admin.mygo.co/Postman/postman.php?url=/ListCity"}
