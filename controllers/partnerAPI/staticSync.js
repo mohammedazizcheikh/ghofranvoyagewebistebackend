@@ -62,6 +62,7 @@ async function syncCities() {
     deleteBeforeInsert: true,
     array: "ListCity",
   });
+  console.log(apiClient.password)
 }
 
 async function syncTags() {
